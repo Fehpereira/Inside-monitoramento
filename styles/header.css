@@ -17,8 +17,9 @@ header {
     display: flex;
     gap: 2.18rem;
     align-items: center;
+    list-style: none;
 
-    a{
+    a { 
       text-decoration: none;
     }
 
@@ -36,5 +37,4 @@ header {
     font-family: 'Inter', sans-serif;
     font-weight: 600;
     color: white;
-    list-style: none;
   }
