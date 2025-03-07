@@ -12,6 +12,6 @@ body {
   background-color: #151515;
   display: flex;
   justify-content: center;
-  border-bottom: 10px solid #3853FD;
+  border-bottom: .625rem solid #3853FD;
 }
 
